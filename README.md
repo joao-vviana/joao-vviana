@@ -1,7 +1,11 @@
 ## Olá! Sou o João Vitor Viana
 
-- 🔭 Hoje trabalho com IT Governance Management
-- 🌱 Estudando Desenolvimento Web Full Stack
+- 🔭 Hoje trabalho com IT Governance Management;
+- 🌱 Estudando Desenolvimento Web Full Stack;
+- 👓 Gosto de ler e estudar nas horas vagas;
+- 🎯 Minha linguagem favorita é JS e HTML.
+
+  ##
 
 <div align="center">
   <a href="https://github.com/joao-vviana">
