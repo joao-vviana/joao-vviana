@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com IT Governance Management;
 - 🌱 Estudando Desenolvimento Web Full Stack;
 - 👓 Gosto de ler e estudar nas horas vagas;
-- 🎯 Minha linguagem favorita é JS e HTML.
+- 🎯 Minha linguagem favorita é JS.
 
   ##
 
